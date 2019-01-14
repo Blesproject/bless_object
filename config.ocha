@@ -5,6 +5,7 @@ config:
     username: root
     name: bless_test01
     ssl: disable
+    driver: cockroachdb
   app:
     host: 0.0.0.0
     name : bless_test01

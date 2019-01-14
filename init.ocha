@@ -1,0 +1,9 @@
+deploy:
+  database:
+    file: database.yml
+  auth:
+    file: auth.yml
+  config:
+    file: config.yml
+  endpoint:
+    file: endpoint.yml
